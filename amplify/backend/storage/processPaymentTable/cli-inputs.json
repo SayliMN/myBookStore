@@ -1,0 +1,10 @@
+{
+  "resourceName": "processPaymentTable",
+  "tableName": "processPaymentTable",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
